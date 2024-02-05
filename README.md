@@ -1,4 +1,4 @@
-I taught Machine Learning to 200+ students through an online platform. These are the course materials I built for my students (Mostly graduate-level students from the Non-CS background).
+I taught Machine Learning to 250+ students through an online platform. These are the course materials I built for my students (Mostly graduate-level students from the Non-CS background).
 
 Video Lectures: https://www.youtube.com/playlist?list=PLGjf1T0akmhN1B4YHB5PT42XmJwr9BpS6
 
@@ -6,7 +6,7 @@ Quiz: https://kawsar34.medium.com/list/machine-learning-interview-quiz-057db2949
 
 #### Lecture 1: Difference between Supervised Learning & Unsupervised Learning
 - Defining Machine Learning: What can ML do?
-- How ML works?
+- How does ML work?
 - Machine Learning terminologies
 - Supervised Learning, Unsupervised Learning, Deep Learning
 
@@ -15,7 +15,7 @@ Quiz: https://kawsar34.medium.com/list/machine-learning-interview-quiz-057db2949
 - train data, test data
 - Understanding the equation of a straight line
 - feature coefficient (slope, gradient, m)
-- bias coeffcient (y-interccept, c)
+- bias coefficient (y-intercept, c)
 - domain: x-axis, independent variable
 - range: y-axis, dependent variable
 - loss function, cost function, objective function, error function
@@ -41,7 +41,7 @@ Quiz: https://kawsar34.medium.com/list/machine-learning-interview-quiz-057db2949
 - Supervised Learning - Classification: Logistic Regression
 - Confusion Matrix
 - Accuracy, Precision, Recall/Sensitivity/True Positive Rate, F1 score, False Positive Rate
-- ROC: Receiver Operating Characterisitcs and AUC: Area Under the Curve
+- ROC: Receiver Operating Characteristics and AUC: Area Under the Curve
 - Classification report
 
 #### Lecture 6: Supervised Learning - Decision Tree
