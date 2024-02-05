@@ -1,3 +1,8 @@
+I taught Machine Learning to 200+ students through an online platform. These are the course materials I built for my students (Mostly graduate-level students from the Non-CS background).
+
+Video Lectures: https://www.youtube.com/playlist?list=PLGjf1T0akmhN1B4YHB5PT42XmJwr9BpS6
+Quiz: https://kawsar34.medium.com/list/machine-learning-interview-quiz-057db29497a4
+
 #### Lecture 1: Difference between Supervised Learning & Unsupervised Learning
 - Defining Machine Learning: What can ML do?
 - How ML works?
